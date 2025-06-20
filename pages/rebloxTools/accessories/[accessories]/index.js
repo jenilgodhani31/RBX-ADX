@@ -7,8 +7,6 @@ function index() {
         <Fragment>
             <Head>
                 <title>{"Robox Exclusive"}</title>
-
-
             </Head>
             <Details />
         </Fragment>
